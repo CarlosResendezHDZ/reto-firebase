@@ -16,7 +16,7 @@ function App() {
           <img src={viteLogo} className="vite" alt="Vite logo" />
         </div>
         <div>
-          <h1>Integración de GitHub y Firebase Hosting</h1>
+<h1>Integración de GitHub y Firebase Hosting</h1>
           <p>
           Página creada con React y conectada a GitHub y Firebase.
           </p>
